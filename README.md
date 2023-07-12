@@ -1,5 +1,7 @@
 # HockeyHub
 
+- 2023 Update (Estimated Completion: September 2023)
+- 
 HockeyHub Project Description <br>
 
 The HockeyHub project is a web application development endeavor that aimed to revolutionize the way hockey enthusiasts connect with clubs and players in their local communities. As a passionate hockey player and developer, I undertook this project with the goal of creating a centralized platform that would simplify the process of finding and joining hockey clubs. <br>
