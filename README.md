@@ -2,7 +2,7 @@
 
 - 2023 Update (Estimated Completion: September 2023)
 
-- Part of my Final Project for Uni
+- Part of my Final Project for Uni (Final Grade: )
   
 HockeyHub Project Description <br>
 
