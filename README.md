@@ -22,3 +22,5 @@ Overall, the HockeyHub project aims to demonstrate my technical skills but also 
 
 ## Screenshots
 This file contains screenshots of the live application running in the bubble.io previewer.
+
+Preview the Project: 
