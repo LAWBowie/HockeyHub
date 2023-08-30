@@ -1,7 +1,7 @@
 # HockeyHub
 
 - 2023 Update (Estimated Completion: September 2023)
-- Open University Module: TM470 (The )
+- Open University Module: TM470 (The Computing Project)
 
 - Part of my Final Project for Uni (Final Grade: )
   
