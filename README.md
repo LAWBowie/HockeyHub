@@ -1,6 +1,7 @@
 # HockeyHub
 
 - 2023 Update (Estimated Completion: September 2023)
+- Open University
 
 - Part of my Final Project for Uni (Final Grade: )
   
