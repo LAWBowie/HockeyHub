@@ -19,7 +19,7 @@ Throughout the project, I adhered to agile development principles, continuously 
 
 The project aims to showcase my abilities in full-stack web development, user-centered design, and agile project management. <br>
 
-Overall, the 
+ 
 
 ## Screenshots
 This file contains screenshots of the live application running in the bubble.io previewer.
