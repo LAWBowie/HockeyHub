@@ -19,7 +19,7 @@ Throughout the project, I adhered to agile development principles, continuously 
 
 The project aims to showcase my abilities in full-stack web development, user-centered design, and agile project management. <br>
 
-Overall, the HockeyHub project aims to demonstrate my technical skills but also reflect my passion for hockey and commitment to creating innovative solutions that enhance the sports community. It stands as a testament to my ability to transform ideas into tangible, user-centric applications that address real-world challenges.
+Overall, the HockeyHub project aims to demonstrate my technical skills but also reflect my passion for hockey and commitment to creating innovative solutions that enhance the sports community. It stands as a testament to my ability to transform ideas into tangible, user-centric applications that addre
 
 ## Screenshots
 This file contains screenshots of the live application running in the bubble.io previewer.
